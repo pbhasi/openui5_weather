@@ -1,0 +1,7 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.ui.commons"
+			controllerName="weather.WeatherView" xmlns:html="http://www.w3.org/1999/xhtml">
+<Label text="Weather View"></Label>
+<TextField ></TextField>
+<Button text="Submit" press="navigate"></Button>
+
+</core:View>
